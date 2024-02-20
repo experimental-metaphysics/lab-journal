@@ -1,2 +1,2 @@
-# lab-journal
+# Lab Journal
 A journal of experiments. 
